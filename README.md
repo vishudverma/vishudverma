@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python:(PyTorch, TensorFlow, Matplot, Pandas, NumPy, Seaborn), C, C++(.NET Framework, Game-Dev with UNITY) , MATLAB**
 
-- 📫 How to reach me **244vishudverma@gmail.com**,**vishudverma@gmail.com**
+- 📫 How to reach me <a href="mailto:244vishudverma@gmail.com">**244vishudverma@gmail.com**</a>,<a href="mailto:vishudverma@gmail.com">**vishudverma@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
