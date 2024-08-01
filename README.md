@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishudverma&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="vishudverma" height=210px width=45% /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishudverma&" alt="vishudverma" height=210px width=50% /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishudverma&theme=vue-dark&hide_border=true" alt="vishudverma" height=210px width=50% /></p>
